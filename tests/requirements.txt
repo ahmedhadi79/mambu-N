@@ -1,0 +1,5 @@
+boto3==1.35.76
+pydantic==2.7.1
+lxml==5.2.2
+awswrangler==3.10.1
+pandas == 2.2.3
