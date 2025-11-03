@@ -1,0 +1,73 @@
+{
+    "dueDate": "2016-09-06T13:37:50+03:00",
+    "encodedKey": "string",
+    "fee": {
+      "amount": {
+        "due": 0,
+        "expected": 0,
+        "expectedUnapplied": 0,
+        "paid": 0
+      },
+      "tax": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      }
+    },
+    "feeDetails": [
+      {
+        "amount": {
+          "due": 0,
+          "expected": 0,
+          "paid": 0,
+          "reduced": 0
+        },
+        "encodedKey": "string",
+        "id": "string",
+        "name": "string",
+        "tax": {
+          "due": 0,
+          "expected": 0,
+          "paid": 0,
+          "reduced": 0
+        }
+      }
+    ],
+    "interest": {
+      "amount": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      },
+      "tax": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      }
+    },
+    "isPaymentHoliday": true,
+    "lastPaidDate": "2016-09-06T13:37:50+03:00",
+    "number": "string",
+    "parentAccountKey": "string",
+    "penalty": {
+      "amount": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      },
+      "tax": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      }
+    },
+    "principal": {
+      "amount": {
+        "due": 0,
+        "expected": 0,
+        "paid": 0
+      }
+    },
+    "repaidDate": "2016-09-06T13:37:50+03:00",
+    "state": "PENDING"
+  }

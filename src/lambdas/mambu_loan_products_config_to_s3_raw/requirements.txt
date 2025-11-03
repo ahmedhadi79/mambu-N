@@ -1,0 +1,4 @@
+flatten_json==0.1.14
+PyYAML==6.0.2
+Requests==2.32.3
+urllib3

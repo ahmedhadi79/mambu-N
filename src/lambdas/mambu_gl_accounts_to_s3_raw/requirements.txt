@@ -1,0 +1,2 @@
+flatten_json==0.1.14
+urllib3==1.26.9
